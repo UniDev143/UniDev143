@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Prescripto**
 
-- 🌱 I’m currently learning **Express and react native**
+- 🌱 I’m currently learning **Next JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Unidev143](https://github.com/Unidev143)
 

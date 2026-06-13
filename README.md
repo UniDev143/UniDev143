@@ -25,6 +25,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unidev143&show_icons=true&locale=en" alt="unidev143" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unidev143&layout=compact&theme=tokyonight" alt="Top Languages" /></p>
 <h1></h1>
+<h3 align="left">🔥 GitHub Streak</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=unidev143&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 
 this is my github profile templete 

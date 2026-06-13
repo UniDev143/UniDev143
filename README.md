@@ -30,7 +30,11 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=unidev143&theme=tokyonight" alt="GitHub Streak" />
 </p>
+<h3 align="left">📈 Contribution Graph</h3>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=unidev143&theme=tokyo-night" alt="Contribution Graph"/>
+</p>
 
 this is my github profile templete 
 i need it to be more optimize 

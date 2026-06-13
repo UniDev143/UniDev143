@@ -26,3 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unidev143&show_icons=true&locale=en" alt="unidev143" /></p>
 <h1></h1>
 
+this is my github profile templete 
+i need it to be more optimize 
+in such a way that it will show stats of my github 
+as many as possible 

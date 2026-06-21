@@ -34,7 +34,3 @@
 
 
 
-this is my github profile templete 
-i need it to be more optimize 
-in such a way that it will show stats of my github 
-as many as possible 
